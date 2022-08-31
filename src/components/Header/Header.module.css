@@ -1,0 +1,28 @@
+.header {
+    background-color: var(--gray-700);
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gray-100);
+}
+
+.logoContainer {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+.textContainer {
+    margin-top: -0.7rem;
+}
+
+.blueText {
+    color: var(--blue);
+}
+
+.purpleDark {
+    color: var(--purple-dark);
+}
